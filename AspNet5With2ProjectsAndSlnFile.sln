@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.22310.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DF582996-8D78-4875-A38F-6B1826A5D288}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNet5With2ProjectsAndSlnFile", "src\AspNet5With2ProjectsAndSlnFile\AspNet5With2ProjectsAndSlnFile.kproj", "{2775EF48-F0EE-4437-898A-E71D07B577EA}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNet5With2ProjectsAndSlnFile", "src\AspNet5With2ProjectsAndSlnFile\AspNet5With2ProjectsAndSlnFile.xproj", "{2775EF48-F0EE-4437-898A-E71D07B577EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61D22905-B1BC-4964-AE8D-DD5A9C806A05}"
 	ProjectSection(SolutionItems) = preProject
