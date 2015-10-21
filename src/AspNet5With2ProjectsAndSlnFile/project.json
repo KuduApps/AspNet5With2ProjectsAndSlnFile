@@ -10,8 +10,11 @@
         "**.vspscc"
     ],
     "dependencies": {
-        "Microsoft.AspNet.Server.IIS": "1.0.0-beta7",
+        "Microsoft.AspNet.Server.Kestrel": "1.0.0-beta8",
         "ClassLibrary": ""
+    },
+    "commands": {
+        "web": "Microsoft.AspNet.Server.Kestrel"
     },
     "frameworks" : {
         "dnx451" : { },
